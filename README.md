@@ -11,4 +11,6 @@ I’m a software engineer passionate about solving problems through code. I’ve
 
 [![Outlook](https://go-skill-icons.vercel.app/api/icons?i=outlook)](mailto:ali47aram@hotmail.com)
 ‎ ‎ [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/ali47aram/)
-‎ ‎ [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=x)](https://x.com/Ali47aram)
+‎ ‎ <a href="https://x.com/Ali47aram" target="_blank" rel="noopener noreferrer">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=x" alt="LinkedIn">
+</a>
