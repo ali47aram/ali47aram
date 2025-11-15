@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a software developer with a love for creating 
 
 ## 🛠 **Technologies & Tools**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML5]([https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white](https://camo.githubusercontent.com/e33c2722bc49b4b7c2a45d5a09f8f04b1390dfed4e602559d459e1ac3978c22f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c))
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
